@@ -1,2 +1,4 @@
 # Personal-Project
-Personal electronics projects 
+My Personal Electronics Self-Learning Record
+
+1. LTSpice
