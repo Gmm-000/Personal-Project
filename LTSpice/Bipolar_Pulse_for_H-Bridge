@@ -3,4 +3,5 @@ diffrence between Bipolar and Unipolar PWM. One of the biggest diffences that st
 from the voltage input (V_in) while Unpolar takes both postive and negative inputs making the output of the H-Bridge twice as effencent?
 
 From the LTSpice simulation below here is what we can gather:
+
 ![My Photo](LTSpice/https://github.com/Gmm-000/Personal-Project/blob/c2f3a07276d223a57ed13e5b32030068a82b5994/LTSpice/Screenshot%202026-04-04%20212656.png)
