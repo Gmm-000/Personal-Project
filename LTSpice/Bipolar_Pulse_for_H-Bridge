@@ -1,1 +1,6 @@
+As I am learning power electronics from Prof. Shabari Nath from the Indian Institute of Technology Guwahat on youtube. One video that stood out was the
+diffrence between Bipolar and Unipolar PWM. One of the biggest diffences that stood out to me was the power delvered. Bipolar only takes the postive input
+from the voltage input (V_in) while Unpolar takes both postive and negative inputs making the output of the H-Bridge twice as effencent?
+
+From the LTSpice simulation below here is what we can gather:
 
